@@ -1,3 +1,6 @@
+GRUPO 48- CLICLO 3 
+Equipo: Scrum 2 
+Proyecto: HOMEZILA-SS
+
 Nombre: Paula Andrea Ferreira Mejía
 Rol: Implementadora
-grupo: 2
