@@ -1,0 +1,103 @@
+.titulo {
+  text-align: center;
+
+  color: blue;
+  font-size: 7rem;
+  margin-left: 12rem;
+}
+
+.contenido_menu {
+  margin-top: 32rem;
+}
+
+.table {
+  background-color: rgb(208, 219, 219);
+}
+
+.search {
+  justify-content: left;
+  align-items: left;
+  float: left;
+}
+.btn11 {
+  margin-top: 1rem;
+  margin-left: 6rem;
+  justify-content: center;
+}
+.d-flex {
+  justify-content: center;
+  margin-right: 10rem;
+}
+.contenedor {
+  align-items: center;
+  margin: 0rem;
+  margin-left: 5em;
+  margin-right: 5rem;
+  padding: 2rem;
+}
+.titulo {
+  margin: 1rem;
+  margin-left: 23rem;
+  justify-content: center;
+  size: 20rem;
+}
+.controlinventario {
+  margin: 1rem;
+  margin-left: 1rem;
+  margin-right: 25rem;
+}
+.container {
+  margin: 0rem;
+  padding: 0rem;
+  text-size-adjust: 12p;
+}
+
+.navbar-nav {
+  text-align: right;
+}
+.color {
+  color: red;
+}
+.calendario {
+  float: right;
+}
+
+.container1 {
+  padding: 1rem;
+  margin: 0rem;
+  margin-right: 19rem;
+}
+.Image8 {
+  margin-right: 0rem;
+  margin-left: 3rem;
+}
+.Image5 {
+  padding: 0rem;
+  margin-left: 2rem;
+  margin-right: 4rem;
+  justify-content: center;
+}
+.btn-group {
+  justify-content: left;
+}
+.mensaje {
+  float: right;
+}
+.tamano1 {
+  text-align: center;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+
+.btn1 {
+  margin: 1rem;
+  margin-left: 4rem;
+  margin-right: 6rem;
+  padding: 0rem;
+  border-radius: 0.5rem;
+  text-align: left;
+}
+
+.contenidotabla {
+  margin-block-end: 1000;
+}
