@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800;900&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+.img-logo {
+  width: 50px;
+}
+.navbar_menu li a {
+  color: #1e1e27;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: color 0.3 ease;
+}
+.navbar_menu li a:hover {
+  color: #b5aec4;
+}
+.logo_continer a {
+  font-size: 20px;
+  color: #1e1e27;
+  font-weight: 700;
+}
+
+.logo_continer a span {
+  color: #2289ff;
+}
+
+.login-page {
+  background-image: url(Img/Image-seven.jpg);
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  object-fit: cover;
+  position: relative;
+  background-attachment: fixed;
+  z-index: 2;
+}
+.contain_login-register {
+  /* width: 300px;
+  height: 350px; */
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px rgb(0, 0, 0, 0.1);
+  font-size: 14px;
+  color: #1e1e27;
+  font-weight: 300;
+}
+
+.contain_login-register h5 {
+  font-size: 17px;
+  color: #2289ff;
+  font-weight: 600;
+  border-bottom: #2289ff 1px solid;
+}
+
+.contain_login-register button {
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 20px;
+}
